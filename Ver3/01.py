@@ -1,3 +1,2 @@
-print("Salam")
 
 print("By")
