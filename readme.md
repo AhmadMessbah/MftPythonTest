@@ -1,0 +1,3 @@
+- COMMIT          save ...
+- PULL/UPDATE     download
+- PUSH            upload
